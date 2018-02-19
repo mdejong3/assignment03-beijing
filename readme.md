@@ -1,5 +1,7 @@
 Melanie DeJong
+
 Jonathan Hirsch
+
 Ben Schmitz
 
 # Assignment 03--Beijing
