@@ -1,0 +1,50 @@
+<!--
+STYLING SUGGESTIONS:
+
+I picked these profiles on the basis that all of the guys are wearing suits in their pictures. So, I figured this would work well as a buisness-sytle website. 
+
+Typeface: something modern-looking would probably compliment the buisness-like aesthetic. 
+
+Color scheme: I was thinking that sticking to a fairly monochromatic scheme would help with the buisness feel.
+
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Team Beijing--Assignment 03</title>
+</head>
+<body>
+
+	<div class="container"> <!--container to keep the content from the margins-->
+
+	<header>
+		<?php include('includes/nav.inc');?>
+		<!--Note: this include includes the main header as well-->
+	</header>
+
+	<!--
+		Javascript here!
+
+		I was thinking it would look nice to have a slideshow cycling through each of the photos we have. If it would be possible also for the pictures to act as hyperlinks to the people's pages, that would be great
+
+		It's possible that the photos we have won't work great for the slide show, since they're pretty small and ideally the slideshow would act as the middle of a Z-layout thing, so we'd want it to be big. I'll try to think of some way we can get bigger images that represent each page.
+	-->
+
+<!--LAYOUT: I was thinking that these could be in three rows stacked on top of each other with the "read more" buttons off to the right so that they would be in the terminal area, though I'm not sure how that will look in practice-->
+
+	<h2>Oliver Ostriker</h2>
+	<p><!--small blurb about Oliver--></p>
+	<a href="[Oliver's page]">Read more about Oliver</a>
+
+	<h2>Zubair Aziz</h2>
+	<p><!--small blurb about Zubair--></p>
+	<a href="[Zubair's page]">Read more about Zubair</a>
+
+	<h2>Kennedy Agusi</h2>
+	<p><!--small blurb about Kennedy--></p>
+	<a href="[Kennedy's page]">Read more about Kennedy</a>
+
+</div>
+</body>
+</html>
