@@ -34,21 +34,15 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 <!--LAYOUT: I was thinking that these could be in three rows stacked on top of each other with the "read more" buttons off to the right so that they would be in the terminal area, though I'm not sure how that will look in practice-->
 
 	<h2>Oliver Ostriker</h2>
-	<p><!--small blurb about Oliver-->
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis tortor imperdiet dolor molestie posuere. Morbi tincidunt lobortis dui a maximus. Curabitur vitae tempor lorem, sit amet ultricies dui. Morbi laoreet dui lacus, a convallis dolor hendrerit sed. Phasellus convallis posuere diam in pulvinar. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Fusce commodo nunc non consequat iaculis. Cras et commodo massa, non consequat sapien. Donec finibus pretium mi, vitae volutpat lectus porttitor non. Donec egestas sed risus at sodales. Ut ac hendrerit purus. Nam facilisis rutrum dolor sit amet pulvinar.
-	</p>
+	<p>A University of Rochester junior majoring in Financial Economics with various experience and good campus involvement.</p>
 	<a href="[Oliver's page]">Read more about Oliver</a>
 
 	<h2>Zubair Aziz</h2>
-	<p><!--small blurb about Zubair-->
-		In pellentesque venenatis eros at suscipit. Cras consequat neque sit amet lacus sagittis varius nec et sem. Fusce pretium auctor placerat. Proin et pretium quam. Pellentesque at ligula lobortis, volutpat dolor non, fringilla ipsum. Donec rutrum blandit pulvinar. Morbi sed neque sagittis, mollis sapien vel, aliquam justo. Nam scelerisque tempor convallis. Curabitur fringilla est vitae ligula pharetra molestie. Aliquam blandit, dolor in malesuada tincidunt, dui odio tempus risus, vel lobortis felis ante eu felis. Aenean elementum sapien libero, id feugiat augue sollicitudin nec. Proin varius euismod nisi, ac lobortis justo iaculis ac. Sed feugiat vel mi vel auctor. Aenean a dignissim neque. Proin nec rhoncus massa, feugiat congue mi.
-	</p>
+	<p>A University of Rochester junior majoring in Economics and Computer Science with solid web experience and some painting skills</p>
 	<a href="[Zubair's page]">Read more about Zubair</a>
 
 	<h2>Kennedy Agusi</h2>
-	<p><!--small blurb about Kennedy-->
-		Maecenas non dictum velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec aliquam nulla dolor, ac vehicula dolor lacinia quis. Curabitur at interdum odio, at vulputate lorem. In hac habitasse platea dictumst. Etiam et lectus fermentum, finibus nisi consectetur, ultricies tortor. Ut justo orci, ornare quis dolor a, porta elementum lorem. Vestibulum odio augue, volutpat id mauris eu, faucibus posuere metus. Curabitur vitae efficitur magna. Ut vel enim ac magna interdum convallis ut sed purus. Ut pharetra ex diam. Nunc magna nulla, pharetra sed velit at, gravida vehicula arcu.
-	</p>
+	<p>A University of Rochester senior majoring in Computer Science with strong leadership skills and various lab experience.</p>
 	<a href="[Kennedy's page]">Read more about Kennedy</a>
 
 </div>
