@@ -1,22 +1,31 @@
 body {
-	background-color: #705D56;
+	background-color: #D4E7ED;
 	color: #32292F;
 }
 
 .box{
 	border: 1px solid black;
 	padding: 5%;
-	background-color: #F0F7F4;
+	background-color: #74A6BD;
 }
 
 .top-buffer {
-	margin-top: 5%;
+	margin-top: 4%;
 }
 
-h1, h2, h3, h4 {
-	color: #70ABAF;
+h3, h4 {
+	color: #D4E7ED;
+}
+
+h1, h2 {
+	color: #74A6BD;
 }
 
 h2 {
-	
+	margin-top: 7%;
+}
+
+h3 {
+	text-decoration: underline;
+	text-decoration-style: solid; 
 }

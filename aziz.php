@@ -5,14 +5,18 @@
 <div class="container"> <!--container to keep the content from the margins-->
 
 	<header>
-		<h1>Beijing -- Assignment 03</h1>
+		<h1>Beijing &mdash; Assignment 03</h1>
 		<p class="subtitle">Professional Portfolio</p>
 		
 	</header>
 
 	<?php include('includes/nav.inc');?>
-	<h2>Zubair Aziz</h2>
 
+<div class="row justify-content-center">
+	<div class="col-3">
+	<h2>Zubair Aziz</h2>
+</div>
+</div>
 
 
 	<!--LAYOUT: it would be nice to keep these items in this order, since they're supposed to imitate a resume-->
@@ -71,10 +75,9 @@
 	</div>
 	</div>
 	</div>
-</div>	
+</div>
 
 <?php include ('includes/footer.inc');?>
-
 </div>
 
 </body>

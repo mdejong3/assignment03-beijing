@@ -46,7 +46,6 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 	<a href="[Kennedy's page]">Read more about Kennedy</a>
 
 <?php include ('includes/footer.inc');?>
-
 </div>
 </body>
 </html>

@@ -11,8 +11,8 @@
 	width: 200%;
 }
 
-.nav a {color: gold;
-	background-color: #AD235E;
+.nav a {color: #D4E7ED;
+	background-color: #74A6BD;
 	padding: 50px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -20,10 +20,11 @@
 }
 
 .nav a:hover {
-	color: #DFEFF0;
+	color: #D4E7ED;
+	background-color: #32292F;
 
 }
 
 .nav .is-current {color: #AD235E;
-	background-color: gold;
+	background-color: #D4E7ED;
 	border-radius: 50px; }

@@ -12,9 +12,11 @@
 
 	<?php include('includes/nav.inc');?>
 
+<div class="row justify-content-center">
+	<div class="col-3">
 	<h2>Oliver Ostriker</h2>
-
-
+</div>
+</div>
 
 	<!--LAYOUT: it would be nice to keep these items in this order, since they're supposed to imitate a resume-->
 
