@@ -16,7 +16,7 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 <div class="container"> <!--container to keep the content from the margins-->
 
 	<header>
-		<h1>Beijing -- Assignment 03</h1>
+		<h1>Beijing &mdash; Assignment 03</h1>
 		<p class="subtitle">Professional Portfolio</p>
 		
 	</header>
