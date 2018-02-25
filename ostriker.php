@@ -78,7 +78,7 @@
 	</div>
 </div>
 
-
+<?php include ('includes/footer.inc');?>
 
 </div>
 

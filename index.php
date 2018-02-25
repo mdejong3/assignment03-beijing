@@ -45,6 +45,8 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 	<p>A University of Rochester senior majoring in Computer Science with strong leadership skills and various lab experience.</p>
 	<a href="[Kennedy's page]">Read more about Kennedy</a>
 
+<?php include ('includes/footer.inc');?>
+
 </div>
 </body>
 </html>
