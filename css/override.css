@@ -1,0 +1,22 @@
+body {
+	background-color: #705D56;
+	color: #32292F;
+}
+
+.box{
+	border: 1px solid black;
+	padding: 5%;
+	background-color: #F0F7F4;
+}
+
+.top-buffer {
+	margin-top: 5%;
+}
+
+h1, h2, h3, h4 {
+	color: #70ABAF;
+}
+
+h2 {
+	
+}

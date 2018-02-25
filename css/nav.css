@@ -1,0 +1,29 @@
+.nav li {
+	list-style-type: none;
+	padding-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	display: inline-block;
+}
+
+.nav ul {
+	text-align: center;
+	width: 200%;
+}
+
+.nav a {color: gold;
+	background-color: #AD235E;
+	padding: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-style: none;
+}
+
+.nav a:hover {
+	color: #DFEFF0;
+
+}
+
+.nav .is-current {color: #AD235E;
+	background-color: gold;
+	border-radius: 50px; }
