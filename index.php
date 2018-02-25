@@ -9,19 +9,19 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 
 -->
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Team Beijing--Assignment 03</title>
-</head>
+<?php include('includes/html-top.inc');?>
+
 <body>
 
-	<div class="container"> <!--container to keep the content from the margins-->
+<div class="container"> <!--container to keep the content from the margins-->
 
 	<header>
-		<?php include('includes/nav.inc');?>
-		<!--Note: this include includes the main header as well-->
+		<h1>Beijing -- Assignment 03</h1>
+		<p class="subtitle">Professional Portfolio</p>
+		
 	</header>
+
+	<?php include('includes/nav.inc');?>
 
 	<!--
 		Javascript here!

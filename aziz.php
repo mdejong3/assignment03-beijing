@@ -1,17 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Zubair Aziz</title>
-</head>
+<?php include('includes/html-top.inc');?>
+
 <body>
 
 <div class="container"> <!--container to keep the content from the margins-->
 
 	<header>
-		<?php include('includes/nav.inc');?>
-		<!--Note: this include includes the main header as well-->
+		<h1>Beijing -- Assignment 03</h1>
+		<p class="subtitle">Professional Portfolio</p>
+		
 	</header>
 
+	<?php include('includes/nav.inc');?>
 	<h2>Zubair Aziz</h2>
 
 	<figure>

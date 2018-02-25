@@ -1,6 +1,3 @@
-<h1>Beijing -- Assignment 03</h1>
-<p class="subtitle">Professional Portfolio</p>
-
 <div class="nav">
 	<ul>
 		<li><a href="index.php">Home</a></li>

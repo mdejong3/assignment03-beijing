@@ -1,16 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Oliver Ostriker</title>
-</head>
+<?php include('includes/html-top.inc');?>
+
 <body>
 
 <div class="container"> <!--container to keep the content from the margins-->
 
 	<header>
-		<?php include('includes/nav.inc');?>
-		<!--Note: this include includes the main header as well-->
+		<h1>Beijing -- Assignment 03</h1>
+		<p class="subtitle">Professional Portfolio</p>
+		
 	</header>
+
+	<?php include('includes/nav.inc');?>
 
 	<h2>Oliver Ostriker</h2>
 
@@ -21,19 +21,23 @@
 
 	<!--LAYOUT: it would be nice to keep these items in this order, since they're supposed to imitate a resume-->
 
+	<div class="col-md-4">
 	<h3>Education</h3>
 		<ul>
 			<li>School: University of Rochester, anticipated graduation 2019</li>
 			<li>Major: Financial Economics</li>
 			<li>Minors: Business, Computer Science</li>
 		</ul>
+	</div>
 
+	<div class="col-md-4">
 	<h3>Skills</h3>
 		<ul>
 			<li>Teaching experience</li>
 			<li>Microsoft Excel</li>
 			<li>Skillful time-management</li>
 		</ul>
+	</div>
 
 	<h3>Work Experience</h3>
 		<h4>Skyview Ventures LCC Intern</h4>
