@@ -1,6 +1,7 @@
 body {
 	background-color: #D4E7ED;
 	color: #32292F;
+	font-family: 'Roboto', sans-serif;
 }
 
 .box{
@@ -28,4 +29,8 @@ h2 {
 h3 {
 	text-decoration: underline;
 	text-decoration-style: solid; 
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Raleway', sans-serif;
 }
