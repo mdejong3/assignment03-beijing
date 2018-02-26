@@ -45,7 +45,7 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 	<div class="col-4">
 <div class="box">
 	<h2 class="indexh2">Zubair Aziz</h2>
-	<p>A University of Rochester junior majoring in Economics and Computer Science with solid web experience and some painting skills</p>
+	<p>A University of Rochester junior majoring in Economics and Computer Science with solid web experience and some painting skills.</p>
 	<a href="[Zubair's page]">Read more about Zubair</a>
 </div>
 </div>
