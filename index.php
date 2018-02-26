@@ -32,18 +32,33 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 	-->
 
 <!--LAYOUT: I was thinking that these could be in three rows stacked on top of each other with the "read more" buttons off to the right so that they would be in the terminal area, though I'm not sure how that will look in practice-->
+<div class="row">
 
-	<h2>Oliver Ostriker</h2>
+	<div class="col-4">
+<div class="box">
+	<h2 class="indexh2">Oliver Ostriker</h2>
 	<p>A University of Rochester junior majoring in Financial Economics with various experience and good campus involvement.</p>
 	<a href="[Oliver's page]">Read more about Oliver</a>
+</div>
+</div>
 
-	<h2>Zubair Aziz</h2>
+	<div class="col-4">
+<div class="box">
+	<h2 class="indexh2">Zubair Aziz</h2>
 	<p>A University of Rochester junior majoring in Economics and Computer Science with solid web experience and some painting skills</p>
 	<a href="[Zubair's page]">Read more about Zubair</a>
+</div>
+</div>
 
-	<h2>Kennedy Agusi</h2>
+	<div class="col-4">
+<div class="box">
+	<h2 class="indexh2">Kennedy Agusi</h2>
 	<p>A University of Rochester senior majoring in Computer Science with strong leadership skills and various lab experience.</p>
 	<a href="[Kennedy's page]">Read more about Kennedy</a>
+</div>
+</div>
+
+</div>
 
 <?php include ('includes/footer.inc');?>
 </div>
