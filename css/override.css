@@ -1,7 +1,6 @@
 body {
 	background-image: url("../images/wood-texture.jpeg");
 	background-repeat: no-repeat;
-    background-size: cover;
     height: 100%;
 	color: #32292F;
 	font-family: 'Roboto', sans-serif;
@@ -16,20 +15,44 @@ body {
     height: 100%;
 }
 
+.index .row .box {
+	background-image: none;
+	background-color: #D4E7ED;
+}
+
+p {
+	margin-left: 2%;
+}
+
+.index .box p {
+	margin-left: 5%;
+}
+
 .top-buffer {
 	margin-top: 4%;
+}
+
+.top-buffer2 {
+	margin-top: 2%;
 }
 
 h2, h3, h4 {
 	color: #32292F;
 }
 
-h1 {
+h1{
 	color: #74A6BD;
+	font-size: 300%;
+}
+
+.subtitle {
+	color: #74A6BD;
+	font-size: 140%;
 }
 
 h2 {
 	margin-top: 7%;
+	font-size: 240%;
 }
 
 h3 {
@@ -38,7 +61,7 @@ h3 {
 }
 
 h1, h2, h3, h4 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Bellefair', serif;
 }
 
 .row .col-4 .box {
@@ -47,17 +70,17 @@ h1, h2, h3, h4 {
 }
 
 footer{
+	color: #74A6BD;
 	margin-top: 3%;
 	margin-bottom: 0px;
 	font-size: 70%;
 }
 
 .box a {
-	color: #D4E7ED;
+	color: #74A6BD;
 	position: absolute;
 	left: 43%;
 	bottom: 1%;
-
 }
 
 a:hover {

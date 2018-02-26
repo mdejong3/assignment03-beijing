@@ -50,18 +50,16 @@
 </div>
 </article>
 
-	<div class="top-buffer">
 	<div class="row">
 	<div class="col-md-12">
 	<h3>Work Experience</h3>
-		<h4>Richland College Chemistry Lab Software Developer</h4>
+		<h4 class="top-buffer2">Richland College Chemistry Lab Software Developer</h4>
 			<p>As a software developer, I worked with my supervisor to develop an inventory tracking software for the lab.</p>
 		<h4>Sharyland Utilities Researcher</h4>
 			<p>At Sharyland Utilities, I researched "Mitigation Strategies to Minimize Voltage Impacts on ERCOT Grid by 50%" and drafted workable solutions and presented to Sharyland Board of Directors.</p>
 
-	<h3>Additional Experience</h3>
+	<h3 class="top-buffer">Additional Experience</h3>
 	<p>I have extensive travel experience. After my high school in Nigeria, I traveled to four (4) different countries (UK, Spain, Israel and France) before coming to United States. My journey in United States started in community college in Dallas back in 2015. After completing my associate I transfered to University of Rochester (my traveling continues) to pursue my Bachelors. Ever since I came to United States I have had summer jobs in different states.</p>
-	</div>
 	</div>
 	</div>
 </div>

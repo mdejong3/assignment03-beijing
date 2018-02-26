@@ -51,18 +51,17 @@
 </div>
 </article>
 
-	<div class="top-buffer">
+
 	<div class="row">
 	<div class="col-md-12">
 	<h3>Work Experience</h3>
-		<h4>University of Rochester IT Consultant</h4>
+		<h4 class="top-buffer2">University of Rochester IT Consultant</h4>
 			<p>As an IT Consultant at the U of R, I assist with network registration and troubleshoot network issues, troubleshoot NetID and login issues, provide support through various methods,assist with various types of malware on students' personal computers.</p>
 		<h4>Media Prima Digital Developer Intern</h4>
 			<p>At Media Prima Digital, I worked with the team to develop modern websites and apps for various different uses, and was trained in both front end and back end systems for web development.</p>
 
-	<h3>Additional Experience</h3>
+	<h3 class="top-buffer">Additional Experience</h3>
 	<p>I'm involved in some extra-curricular activities such as Alpha Kappa Psi, the professional business fraternity; and Grass Roots Soccer, a health organization that uses the power of soccer to educate, inspire, and mobilize young people to lead healthier lives. </p>
-	</div>
 	</div>
 	</div>
 </div>
