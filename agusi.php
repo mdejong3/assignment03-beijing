@@ -44,7 +44,7 @@
 
 	<div class="col">
 	<figure>
-		<img src="images/kennedy.jpg" class="float-right" alt="Kennedy Agusi"> <!--I'll try to make these better quality-->
+		<img src="images/kennedy.jpg" class="float-right" alt="Kennedy Agusi"> 
 	</figure>
 </div>
 </div>
