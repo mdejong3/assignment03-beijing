@@ -66,7 +66,7 @@
 
 <?php include ('includes/footer.inc');?>
 
-
+</div>
 </body>
 
 </html>
