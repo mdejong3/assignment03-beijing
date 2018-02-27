@@ -22,9 +22,8 @@
 .nav a:hover {
 	color: #D4E7ED;
 	background-color: #32292F;
-
 }
 
-.nav .is-current {color: #AD235E;
+.nav .is-current {color: #32292F;
 	background-color: #D4E7ED;
-	border-radius: 50px; }
+}
