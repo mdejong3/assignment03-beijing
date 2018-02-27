@@ -1,3 +1,5 @@
+<!doctype html>
+<?php $thisPage="Ostriker"; ?>
 <?php include('includes/html-top.inc');?>
 
 <body>

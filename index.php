@@ -9,6 +9,8 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 
 -->
 
+<!doctype html>
+<?php $thisPage="Index"; ?>
 <?php include('includes/html-top.inc');?>
 
 <body>
@@ -23,13 +25,13 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 
 	<?php include('includes/nav.inc');?>
 
-	<!--
-		Javascript here!
-
-		I was thinking it would look nice to have a slideshow cycling through each of the photos we have. If it would be possible also for the pictures to act as hyperlinks to the people's pages, that would be great
-
-		It's possible that the photos we have won't work great for the slide show, since they're pretty small and ideally the slideshow would act as the middle of a Z-layout thing, so we'd want it to be big. I'll try to think of some way we can get bigger images that represent each page.
-	-->
+	<div class="slideshow">
+		<ul>
+			<li><a href="ostriker.php"><img class="full" src="images/oliver.png" alt="John Mcafee"></a></li>
+			<li><a href="aziz.php"><img class="full" src="images/zubair.jpg" alt="Grace Hopper"></a></li>
+			<li><a href="agusi.php"><img class="full" src="images/kennedy.jpg" alt="Dennis Ritchie"></a></li>
+		</ul>
+	</div>
 
 <!--LAYOUT: I was thinking that these could be in three rows stacked on top of each other with the "read more" buttons off to the right so that they would be in the terminal area, though I'm not sure how that will look in practice-->
 <div class="index">
@@ -64,5 +66,16 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 
 <?php include ('includes/footer.inc');?>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="js/unslider-min.js"></script> 
+<script>
+jQuery(document).ready(function($) {
+	$('.slideshow').unslider({
+		autoplay: true,
+		infinite: true,
+		fluid: true
+	});
+});
+</script>
 </body>
 </html>

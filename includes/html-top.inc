@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
@@ -10,5 +9,7 @@
 		
 		<link rel="stylesheet" href="css/override.css">
 		<link rel="stylesheet" href="css/nav.css">
+		<link rel="stylesheet" href="css/unslider.css">
+		<link rel="stylesheet" href="css/unslider-dots.css">
 
 	</head>

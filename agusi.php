@@ -1,3 +1,5 @@
+<!doctype html>
+<?php $thisPage="Agusi"; ?>
 <?php include('includes/html-top.inc');?>
 
 <body>

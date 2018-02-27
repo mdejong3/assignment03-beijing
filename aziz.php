@@ -1,3 +1,5 @@
+<!doctype html>
+<?php $thisPage="Aziz"; ?>
 <?php include('includes/html-top.inc');?>
 
 <body>
