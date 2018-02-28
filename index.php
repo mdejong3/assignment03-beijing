@@ -27,9 +27,9 @@ Color scheme: I was thinking that sticking to a fairly monochromatic scheme woul
 
 	<div class="slideshow">
 		<ul>
-			<li><a href="ostriker.php"><img class="full" src="images/oliver.png" alt="John Mcafee"></a></li>
-			<li><a href="aziz.php"><img class="full" src="images/zubair.jpg" alt="Grace Hopper"></a></li>
-			<li><a href="agusi.php"><img class="full" src="images/kennedy.jpg" alt="Dennis Ritchie"></a></li>
+			<li><a href="ostriker.php"><img class="full" src="images/oliver.png" alt="Oliver Ostriker"></a><figcaption>Oliver Ostriker</figcaption></li>
+			<li><a href="aziz.php"><img class="full" src="images/zubair.jpg" alt="Zubair Aziz"></a><figcaption>Zubair Aziz</figcaption></li>
+			<li><a href="agusi.php"><img class="full" src="images/kennedy.jpg" alt="Kennedy Agusi"></a><figcaption>Kennedy Agusi</figcaption></li>
 		</ul>
 	</div>
 
